@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/Mala0119/DevOps_Microservices.svg?style=shield)](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/Mala0119/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5)
 
 ## Project Overview
 
