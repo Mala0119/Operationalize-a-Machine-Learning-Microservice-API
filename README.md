@@ -1,4 +1,6 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/Mala0119/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5)
+[![CircleCI](https://circleci.com/gh/Mala0119/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/Mala0119/Operationalize-a-Machine-Learning-Microservice-API)
+
+
 
 ## Project Overview
 
